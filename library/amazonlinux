@@ -1,0 +1,50 @@
+Maintainers: Amazon Linux <amazon-linux@amazon.com> (@amazonlinux),
+            Frédérick Lefebvre (@fred-lefebvre),
+            Stewart Smith (@stewartsmith),
+            Christopher Miller (@mysteriouspants),
+            Sumit Tomer (@sktomer),
+            Tanu Rampal (@trampal),
+            Sam Thornton (@mrthornazon),
+            Preston Carpenter (@timidger),
+            Joseph Howell-Burke (@jhowell-burke),
+            Miriam Clark (@mgclark001)
+GitRepo: https://github.com/amazonlinux/container-images.git
+GitCommit: a4656f18f9a049b7ba91a5d2281af656ad819836
+
+Tags: 2.0.20221210.0, 2, latest
+Architectures: amd64, arm64v8
+amd64-GitFetch: refs/heads/amzn2
+amd64-GitCommit: 9025e0ce9166d150ef8c28dd0d88465a250cf79d
+arm64v8-GitFetch: refs/heads/amzn2-arm64
+arm64v8-GitCommit: 84cd6d3fe2e3cd9126e98f2c809622c97c827482
+
+Tags: 2.0.20221210.0-with-sources, 2-with-sources, with-sources
+Architectures: amd64, arm64v8
+amd64-GitFetch: refs/heads/amzn2-with-sources
+amd64-GitCommit: 2040b2eb2433e45f0f20ab4d8475bf122580a6f5
+arm64v8-GitFetch: refs/heads/amzn2-arm64-with-sources
+arm64v8-GitCommit: cdfaff090e256d7f9586c889467807634be5ebd9
+
+Tags: 2018.03.0.20221209.1, 2018.03, 1
+Architectures: amd64
+amd64-GitFetch: refs/heads/2018.03
+amd64-GitCommit: a55f337ad62fc1e1a0c06843ecd0b8f5b10347bb
+
+Tags: 2018.03.0.20221209.1-with-sources, 2018.03-with-sources, 1-with-sources
+Architectures: amd64
+amd64-GitFetch: refs/heads/2018.03-with-sources
+amd64-GitCommit: 6bb52a2cc2d7899405098cff4373bfa397b6c4a8
+
+Tags: 2022.0.20221207.4, 2022, devel
+Architectures: amd64, arm64v8
+amd64-GitFetch: refs/heads/al2022
+amd64-GitCommit: 423528b1be8f280af50b6fe8c2cfa296b05e995f
+arm64v8-GitFetch: refs/heads/al2022-arm64
+arm64v8-GitCommit: b68a0d87dafee8f62bbc7923734eb11d7610cbf6
+
+Tags: 2022.0.20221207.4-with-sources, 2022-with-sources, devel-with-sources
+Architectures: amd64, arm64v8
+amd64-GitFetch: refs/heads/al2022-with-sources
+amd64-GitCommit: 8b3c53739a3853a701caa4ff99732c3b8325c5b4
+arm64v8-GitFetch: refs/heads/al2022-arm64-with-sources
+arm64v8-GitCommit: 4513dc20bfb13210bb7b34d15a93aead75d88120

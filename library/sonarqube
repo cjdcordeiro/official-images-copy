@@ -1,0 +1,38 @@
+Maintainers: Christophe Levis <christophe.levis@sonarsource.com> (@christophelevis),
+             Pierre Guillot <pierre.guillot@sonarsource.com> (@pierre-guillot-gh),
+             Lukasz Jarocki <lukasz.jarocki@sonarsource.com> (@lukasz-jarocki-sonarsource),
+             Wouter Admiraal <wouter.admiraal@sonarsource.com> (@wouter-admiraal-sonarsource),
+             Aurelien Poscia <aurelien.poscia@sonarsource.com> (@aurelien-poscia-sonarsource),
+             Matteo Mara <matteo.mara@sonarsource.com> (@matteo-mara-sonarsource)
+GitRepo: https://github.com/SonarSource/docker-sonarqube.git
+GitCommit: 6e6bd428f38d5ba5b6169fd15d29ce8dbe00921f
+
+Tags: 8.9.10-community, 8.9-community, 8-community, lts, lts-community
+Directory: 8/community
+
+Tags: 8.9.10-developer, 8.9-developer, 8-developer, lts-developer
+Directory: 8/developer
+
+Tags: 8.9.10-enterprise, 8.9-enterprise, 8-enterprise, lts-enterprise
+Directory: 8/enterprise
+
+Tags: 8.9.10-datacenter-app, 8.9-datacenter-app, 8-datacenter-app, lts-datacenter-app
+Directory: 8/datacenter/app
+
+Tags: 8.9.10-datacenter-search, 8.9-datacenter-search, 8-datacenter-search, lts-datacenter-search
+Directory: 8/datacenter/search
+
+Tags: 9.8.0-community, 9.8-community, 9-community, community, latest
+Directory: 9/community
+
+Tags: 9.8.0-developer, 9.8-developer, 9-developer, developer
+Directory: 9/developer
+
+Tags: 9.8.0-enterprise, 9.8-enterprise, 9-enterprise, enterprise
+Directory: 9/enterprise
+
+Tags: 9.8.0-datacenter-app, 9.8-datacenter-app, 9-datacenter-app, datacenter-app
+Directory: 9/datacenter/app
+
+Tags: 9.8.0-datacenter-search, 9.8-datacenter-search, 9-datacenter-search, datacenter-search
+Directory: 9/datacenter/search

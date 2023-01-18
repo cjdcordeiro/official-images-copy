@@ -1,0 +1,42 @@
+# Old point releases are included in this library file so that users
+# are not forced to upgrade to the latest point releases in order to
+# get security fixes to the base image. See
+# https://github.com/docker-library/official-images/issues/1864 for a
+# discussion of this point.
+
+Maintainers: Chris Gioran <chris@neo4j.com> (@digitalstain),
+             Jenny Owen <jenny.owen@neo4j.com> (@jennyowen),
+             Bledi Feshti <bledi.feshti@neo4j.com> (@bfeshti)
+GitRepo: https://github.com/neo4j/docker-neo4j-publish.git
+
+
+Tags: 5.3.0, 5.3.0-community, 5.3, 5, 5-community, community, latest
+Architectures: amd64, arm64v8
+GitCommit: 2318e8788222c303a84b819f190271a531ef92ea
+Directory: 5.3.0/community
+
+Tags: 5.3.0-enterprise, 5.3-enterprise, 5-enterprise, enterprise
+Architectures: amd64, arm64v8
+GitCommit: 2318e8788222c303a84b819f190271a531ef92ea
+Directory: 5.3.0/enterprise
+
+
+Tags: 4.4.16, 4.4.16-community, 4.4, 4.4-community
+Architectures: amd64, arm64v8
+GitCommit: 082867e61a5947ba35fc954a192a438f2238e868
+Directory: 4.4.16/community
+
+Tags: 4.4.16-enterprise, 4.4-enterprise
+Architectures: amd64, arm64v8
+GitCommit: 082867e61a5947ba35fc954a192a438f2238e868
+Directory: 4.4.16/enterprise
+
+
+Tags: 4.3.23, 4.3.23-community, 4.3, 4.3-community
+GitCommit: 082867e61a5947ba35fc954a192a438f2238e868
+Directory: 4.3.23/community
+
+Tags: 4.3.23-enterprise, 4.3-enterprise
+GitCommit: 082867e61a5947ba35fc954a192a438f2238e868
+Directory: 4.3.23/enterprise
+

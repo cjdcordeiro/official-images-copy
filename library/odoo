@@ -1,0 +1,16 @@
+Maintainers: Christophe Monniez <moc@odoo.com> (@d-fence)
+GitRepo: https://github.com/odoo/docker
+GitCommit: 9674beb8a5ae48981bae2266b8c373d4eb7dd5e7
+
+Tags: 16.0, 16, latest
+Architectures: amd64
+Directory: 16.0
+
+Tags: 15.0, 15
+Architectures: amd64
+Directory: 15.0
+
+Tags: 14.0, 14
+Architectures: amd64
+Directory: 14.0
+

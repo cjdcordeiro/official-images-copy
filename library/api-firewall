@@ -1,0 +1,9 @@
+Maintainers: Ivan Novikov <in@wallarm.com> (@d0znpp), 
+             Nikolay Tkachenko (@afr1ka)
+GitRepo: https://github.com/wallarm/api-firewall-docker.git
+
+Tags: 0.6.9, latest
+Architectures: amd64, arm64v8, i386
+GitCommit: c2b622e7f59546d9fb338c81fa82d405a8767485
+GitFetch: refs/heads/main
+Directory: 0.6.10
